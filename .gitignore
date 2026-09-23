@@ -1,0 +1,13 @@
+.DS_Store
+*.class
+*.log
+*.jar
+*.war
+build/
+nbproject/private/
+dist/
+nbbuild/
+nbdist/
+.vscode/
+.idea/
+*.iml
